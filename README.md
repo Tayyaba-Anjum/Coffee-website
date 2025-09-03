@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tayyaba Anjum</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Coffee shop project](https://tayyaba-anjum.github.io/Coffee-website/)
+- 🔭 I’m currently working on [Coffee shop project] (https://tayyaba-anjum.github.io/Coffee-website/)
 
 - 🌱 I’m currently learning **html,css,javascript**
 
